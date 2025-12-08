@@ -1,0 +1,4 @@
+=== FCFS ===
+Order: A B C D 
+Wait Times: A:0 B:3 C:4 D:5 
+Turnaround Times: A:5 B:6 C:5 D:12
